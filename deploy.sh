@@ -13,5 +13,3 @@ git commit -m 'static resource'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 git push -f https://github.com/LooseLi/static.git master
-
-cd -
